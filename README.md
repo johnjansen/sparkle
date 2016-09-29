@@ -7,7 +7,7 @@
 
 *TIMELINE:* I'm very busy, so i dont know how much time i will get on this project. Having said that, i'd like to write some design documents (in some form) and start creating action point (maybe as tickets). If things come off the way im envisaging, then anyone will be welcome to contribute / pickup tickets and implement functionality.
 
-*STATUS:* Unstarted
+*STATUS:* _Unstarted_
 
 ## Installation
 
